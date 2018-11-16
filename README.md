@@ -21,3 +21,5 @@ Write List comprehensions to produce the following Lists
 [(1, 1), (2, 1), (3, 1), (1, 2), (2, 2), (3, 2), (1, 3), (2, 3), (3, 3)]
 
 3. Implement a function longestWord() that takes a list of words and returns the longest one.
+
+I have done all the problems of the exercose and screenshots of the output have been attached .
